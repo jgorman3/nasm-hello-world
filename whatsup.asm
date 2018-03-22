@@ -12,4 +12,4 @@ start:
         syscall    
     
         section        .data
-phrase:    db        ‘最近怎么样？’,10
+phrase: db        ‘最近怎么样？’,10
